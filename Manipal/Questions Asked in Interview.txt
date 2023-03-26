@@ -7,3 +7,7 @@
 4) How to select in mongodb
 
 5) Resume related questions
+
+6) What are Trigger and Trigger related Questions 
+
+7) What is difference between HTML and HTML5
