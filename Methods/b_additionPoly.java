@@ -24,7 +24,7 @@ public class b_additionPoly {
     public static void main(String[] args) {
         System.out.println(addition(2,3));
         System.out.println(addition("con","cat"));
-        System.out.println(addition("str+int",5));
+        System.out.println(addition("str",5));
     }    
 
 }
