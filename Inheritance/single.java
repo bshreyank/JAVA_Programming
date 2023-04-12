@@ -11,7 +11,7 @@ class student extends person{
     int rollno;
 }
 
-public class inheritance {
+public class single {
     public static void main(String args[]){        
         student shreyank = new student();
         shreyank.rollno = 1234;        
