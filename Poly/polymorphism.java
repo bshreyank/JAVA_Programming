@@ -1,7 +1,5 @@
 package Poly;
 
-import javax.swing.plaf.synth.SynthSpinnerUI;
-
 class test{
     static int addition(int a, int b){
         return a+b;
