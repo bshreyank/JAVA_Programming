@@ -9,6 +9,7 @@ class person{
 }
 class student extends person{    
     int rollno;
+    
 }
 
 public class single {
@@ -16,6 +17,9 @@ public class single {
         student shreyank = new student();
         shreyank.rollno = 1234;        
         shreyank.name = "Shreyank";
+        
         System.out.println(shreyank.name);        
         shreyank.printer(); //Methods can be called in Inheritance
-    }}
+        
+    }
+}
