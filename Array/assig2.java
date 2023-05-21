@@ -13,7 +13,7 @@
 
 7. Write a Java program to remove duplicate elements from an array.
  */
-
+/*
 package Array;
 
 import java.util.Arrays;
@@ -22,7 +22,7 @@ import java.util.Scanner;
 public class assig2 {
     public static void main(String[] args) {
         
-        int[] num = {3, 8, 4, 6, 1, 9, 2, 5, 7};
+        int[] num = {3, 8, 4, 6, 1, 9, 2, 5, 7};*/
         
 //assig 1 =====================================================================================>
 /*
@@ -52,7 +52,7 @@ public class assig2 {
         }*/
      
 //assig 3 =====================================================================================>
-      int min = num[0];
+    /*  int min = num[0];
       int max = num[0];
 
       for(int i=0; i<num.length;i++){
@@ -74,7 +74,7 @@ public class assig2 {
         }
       }
       int average=sum/count;
-      System.out.println(average);
+      System.out.println(average);*/
 //assig 4 =====================================================================================>
         /*int[] arr1 = {1, 2, 3, 4, 5};
         int[] arr2 = new int[arr1.length];
@@ -128,7 +128,7 @@ for(int i=0;i<arr1.length;i++){
     }
 }*/
 //assig 7 =====================================================================================>
-
+/*
 int[] arr1 = {1, 2, 3, 4, 5};
 int[] arr2 = {4, 5, 6, 7, 8};
 
@@ -143,3 +143,4 @@ for(int i=0;i<arr1.length;i++){
 
     }//main
 }//class
+*/
