@@ -1,3 +1,4 @@
+package Assignment_Set_1;
 // package Assignment;
 // import java.util.Scanner;
 // public class Assig_2 {

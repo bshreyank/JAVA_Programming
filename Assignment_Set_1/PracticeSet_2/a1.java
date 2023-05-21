@@ -1,4 +1,4 @@
-package Assignment.PracticeSet_2;
+package Assignment_Set_1.PracticeSet_2;
 
 /*Q. What is the result of the following expression : float a = 7/4*9/2; */
 

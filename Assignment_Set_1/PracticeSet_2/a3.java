@@ -1,4 +1,4 @@
-package Assignment.PracticeSet_2;
+package Assignment_Set_1.PracticeSet_2;
 import java.util.Scanner;
 
 public class a3 {
