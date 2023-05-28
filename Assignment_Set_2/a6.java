@@ -9,7 +9,8 @@ public class a6 {
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Enter the radius of the cylinder: ");
-        double radius = scanner.nextDouble();
+        //double radius = scanner.nextDouble();
+        
 
         scanner.close();
     }

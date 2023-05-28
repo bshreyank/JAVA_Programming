@@ -1,5 +1,3 @@
-package Methods;
-
 /*
  * Create a class that has attributes about a car
  * including average, create methods that will calculate 
